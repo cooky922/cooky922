@@ -28,3 +28,6 @@ constexpr T fib(T n) {
     return std::round((std::pow(phi, n) - std::pow(-phi, -n)) / std::sqrt(5.0L));
 }
 ```
+```c++
+[] -> decltype(auto) { return std::cout << "Hello "; }() << "world!";
+```
