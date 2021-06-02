@@ -34,6 +34,24 @@ constexpr T fib(T n) {
 [] -> decltype(auto) { return std::cout << "Hello "; }() << "world!";
 ```
 
+### Equivalence
+```c++
+// while-loop
+while (condition) {
+    statements;
+    update;
+}
+// while-loop equivalent to goto
+loop: {
+    if (condition) {
+        statements;
+        update;
+        goto loop;
+    }
+}
+```
+
+<!--
 #### Custom Property Class (unfinished)
 ```c++
 template <typename T>
@@ -69,4 +87,4 @@ public:
 
 };
 ```
-
+-->
