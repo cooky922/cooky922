@@ -5,12 +5,20 @@
 cooky922/cooky922 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## TODO
+- [ ] completing [gold++.2] for the release
+- [ ] studying data structures and algorithms
+- [ ] studying simple assembly
+- [ ] studying windows system programming
+- [ ] making a simple app called ''Hanging Game''
+- [ ] making a simple app called ''Painter''
+
 ## What I'm doing right now
 * i've continuously molded the design of very infant language 'orange'
-* i've been working on improvising my personal utility library `[gold++]`
+* i've been working on my personal utility library `[gold++]` by continuously improvising
 
 ## What I Like in C++
-* there are infinite possibilities you can program
+* there are infinite possibilities you can do
 * i loved templates!
 
 ## What I Hate in C++
