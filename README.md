@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Desmond Gold</h1>
 <h3 align="center">A 2nd year BSCS student and also a C++ hobbyist</h3>
 
-- 🔭 I’m currently working on **talaan.io**
+- 🔭 I'm currently learning on mathematical foundations of computer science
 
 - 💬 Ask me about **c++**
 
