@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Desmond Gold</h1>
-<h3 align="center">A 2nd year BSCS student and also a C++ hobbyist</h3>
-
-- 🔭 I'm currently learning on mathematical foundations of computer science
-
-- 💬 Ask me about **c++**
+<h3 align="center">A 3rd year BSCS student and also a C++ hobbyist</h3>
 
 - 📫 How to reach me **desmondbongcawel922@gmail.com**
 
